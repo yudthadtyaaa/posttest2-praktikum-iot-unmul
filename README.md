@@ -11,8 +11,8 @@ Kontrol Kecerahan Lampu dan Nada Buzzer dengan NodeMCU dan Web Server
 Proyek ini bertujuan untuk membuat sistem kontrol kecerahan lampu LED dan nada buzzer menggunakan NodeMCU (ESP8266) sebagai mikrokontroler. Pengguna dapat mengatur kecerahan lampu dan frekuensi nada buzzer melalui antarmuka web yang disediakan oleh server HTTP yang berjalan pada NodeMCU. Sistem juga dilengkapi dengan tombol untuk mengaktifkan/menonaktifkan komponen serta tombol untuk menambah/mengurangi nilai komponen.
 
 ## Pembagian Tugas
-1. Muhammad Akbar Fahrezi 2109106117  Pengaturan rangkaian elektronik NodeMCU.
-2. M. Yudith Aryanta Aditya 2109106122 Membuat Code dan Menguji Hasil Rangkaian.
+1. Muhammad Akbar Fahrezi 2109106117  (Pengaturan rangkaian elektronik NodeMCU).
+2. M. Yudith Aryanta Aditya 2109106122 (Membuat Code dan Menguji Hasil Rangkaian).
 
 ## Komponen yang Digunakan
 1. NodeMCU (ESP8266)
